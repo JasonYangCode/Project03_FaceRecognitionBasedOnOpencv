@@ -1,9 +1,9 @@
 # 网易云课堂AI工程师实战项目：基于opencv进行人脸识别
 ## Introduction(项目介绍)
 
-This project is one of the NetEase cloud classroom AI engineers (computer vision) practical projects. Through the comprehensive use of python and opencv, the cascade classifier CascadeClassifier is used to detect human faces, and EigenFaceRecognizer is used to build human brain models.Finally, the photos of Huang Xiaoming and Angelababy were successfully identified.
+This project is one of the NetEase cloud classroom AI engineers (computer vision) practical projects. Through the comprehensive use of python and opencv, the cascade classifier CascadeClassifier is used to detect human faces, and EigenFaceRecognizer is used to build human face models.Finally, the photos of Huang Xiaoming and Angelababy were successfully identified.
 
-本项目为网易云课堂AI工程师（计算机视觉）实战项目之一，通过python、opencv的综合运用，使用级联分类器CascadeClassifier检测人脸，使用EigenFaceRecognizer构建人脑模型，最后成功识别黄晓明和杨颖的照片。
+本项目为网易云课堂AI工程师（计算机视觉）实战项目之一，通过python、opencv的综合运用，使用级联分类器CascadeClassifier检测人脸，使用EigenFaceRecognizer构建人脸模型，最后成功识别黄晓明和杨颖的照片。
 
 
 ## Requirements(项目步骤)
